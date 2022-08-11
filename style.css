@@ -1,0 +1,580 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Poppins';
+}
+
+   .con1 a img{
+            width: 280px;
+            height: 190px;
+            position: relative;
+            top: 150px;
+            left: 40px;
+   }
+
+
+
+.first-inline{
+         display: inline-block;
+         
+}
+
+
+.z img{
+     height: 190px;
+     width: 303px;
+     position: relative;
+     top: 160px;
+     left: 25px;
+     margin: 15px 15px;
+     border: 3px solid black;
+    }
+
+    .f1{
+      display: inline-block;
+    }
+    .tryfz{
+      display: inline-block;
+    }
+
+
+    .f1 img{
+      height: 190px;
+      width: 303px;
+      position: relative;
+      top: 260px;
+      left: 25px;
+      margin: 15px 15px;
+      border: 3px solid black;
+     }
+ 
+    
+   .xy14{
+    font-size: 14px;
+    position: absolute;
+    top: 434px;
+    left: 52px;
+  }
+
+  .xy13{
+   position: absolute;
+   top: 450px;
+   left: 132px;
+   font-size: 14px;
+ }
+
+ .xy15{
+    position: absolute;
+    top: 434px;
+    left: 435px;
+    font-size: 14px;
+ }
+
+ .xy16{
+  position: absolute;
+  top: 450px;
+  left: 460px;
+  font-size: 14px;
+
+ }
+
+ .xy17{
+  position: absolute;
+  top: 434px;
+  left: 819px;
+  font-size: 14px;
+ }
+
+ .xy18{
+  position: absolute;
+  top: 452px;
+  left: 818px;
+  font-size: 13px;
+ }
+
+ .xy19{
+  position: absolute;
+  top: 434px;
+  left: 1058px;
+  font-size: 14px;
+ }
+
+ .xy20{
+  position: absolute;
+  top: 452px;
+  left: 1147px;
+  font-size: 13px;
+
+ }
+
+
+
+ .f img{
+  height: 190px;
+  width: 303px;
+  position: relative;
+  top: 210px;
+  left: 25px;
+  margin: 15px 15px;
+  border: 3px solid black;
+ }
+
+ @media (min-width: 580px) and (max-width: 1348px){
+
+.first-inline{
+  display: none;
+
+}
+
+.tryf{
+  display: none;
+}
+
+.xy13{
+  display: none;
+}
+
+.xy14{
+  display: none;
+}
+.xy15{
+  display: none;
+}
+.xy16{
+  display: none;
+}
+.xy17{
+  display: none;
+}
+.xy18{
+  display: none;
+}
+.xy19{
+  display: none;
+}
+
+.xy20{
+  display: none;
+}
+
+.xy21{
+  display: none;
+
+}
+
+.xy22{
+  display: none;
+
+}
+
+.xy23{
+  display: none;
+}
+
+.xy24{
+  display: none;
+}
+
+.xy25{
+  display: none;
+}
+
+.xy26{
+  display: none;
+}
+
+.xy27{
+  display: none;
+}
+
+
+.xy28{
+  display: none;
+}
+
+
+ }
+
+.xy21{
+  position: absolute;
+  top: 705px;
+  left: 133px;
+  font-size: 14px;
+}
+
+.xy22{
+  position: absolute;
+  top: 723px;
+  left: 134px;
+  font-size: 13px;
+}
+
+.xy23{
+  position: absolute;
+  top: 705px;
+  left: 430px;
+  font-size: 13px;
+}
+.xy24{
+  position: absolute;
+  top: 723px;
+  left: 480px;
+  font-size: 13px;
+}
+
+.xy25{
+  position: absolute;
+  top: 705px;
+  left: 782px;
+  font-size: 13px;
+}
+
+.xy26{
+  position: absolute;
+  top: 723px;
+  left: 815px;
+  font-size: 13px;
+}
+
+
+.xy27{
+  position: absolute;
+  top: 705px;
+  left: 1135px;
+  font-size: 13px;
+}
+
+.xy28{
+  position: absolute;
+  top: 723px;
+  left: 1154px;
+  font-size: 13px;
+}
+
+
+.xy29{
+  position: absolute;
+  top: 974px;
+  left: 84px;
+  font-size: 14px;
+}
+
+.xy30{
+  position: absolute;
+  top: 993px;
+  left: 134px;
+  font-size: 13px;
+}
+
+@media (min-width: 600px) and (max-width: 1700px){
+
+  .btm1x{
+    position: absolute;
+    left: 560px;
+    top: 800px;
+     
+   }
+ 
+
+  .main2x{
+    display: none;
+  }
+
+.second-inline{
+  display: none;
+}
+
+.g1x{
+  display: none;
+}
+.g121x{
+  display: none;
+}
+
+.g2212x{
+  display: none;
+}
+
+.g526x{
+  display: none;
+}
+
+.g665x{
+  display: none;
+}
+.g666x{
+  display: none;
+}
+
+.g221x{
+  display: none;
+}
+
+.btm1x{
+  position: absolute;
+  top: 1000px;
+}
+}
+
+
+@media (min-width: 405px) and (max-width: 599px){
+  .first-inline{
+    display: none;
+  
+  }
+  
+  .tryf{
+    display: none;
+  }
+  
+  .xy13{
+    display: none;
+  }
+  
+  .xy14{
+    display: none;
+  }
+  .xy15{
+    display: none;
+  }
+  .xy16{
+    display: none;
+  }
+  .xy17{
+    display: none;
+  }
+  .xy18{
+    display: none;
+  }
+  .xy19{
+    display: none;
+  }
+  
+  .xy20{
+    display: none;
+  }
+  
+  .xy21{
+    display: none;
+  
+  }
+  
+  .xy22{
+    display: none;
+  
+  }
+  
+  .xy23{
+    display: none;
+  }
+  
+  .xy24{
+    display: none;
+  }
+  
+  .xy25{
+    display: none;
+  }
+  
+  .xy26{
+    display: none;
+  }
+  
+  .xy27{
+    display: none;
+  }
+  
+  
+  .xy28{
+    display: none;
+  }
+
+
+.g img{
+  width: 200px;
+  height: 180px;
+  position: relative;
+  left: 10px;
+  top: 300px;
+}
+
+.g1x{
+  position: absolute;
+  top: 550px;
+  left: 34px;
+  font-size: 15px;
+  
+}
+
+
+.g121x{
+  position: absolute;
+  top: 567px;
+  left: 52px;
+  font-size: 15px;
+}
+
+.g221x{
+  position: absolute;
+  top: 550px;
+  left: 274px;
+  font-size: 15px;
+}
+
+.g2212x{
+  position: absolute;
+  top: 567px;
+  left: 260px;
+  font-size: 15px;
+}
+
+.g2 img{
+  width: 200px;
+  height: 180px;
+  position: relative;
+  left: 10px;
+  top: 370px;
+
+}
+
+.g526x{
+  position: absolute;
+  top: 800px;
+  left: 65px;
+  font-size: 15px;
+}
+
+.navbar ul li{
+  z-index: 50;
+}
+
+
+.g665x{
+  position: absolute;
+  top: 800px;
+  font-size: 15px;
+  left: 225px;
+}
+
+.g666x{
+  position: absolute;
+  top: 816px;
+  font-size: 15px;
+  left: 250px;
+}
+
+
+}
+
+
+@media (min-width: 320px) and (max-width: 400px){
+ 
+
+  .btm1x{
+    position: absolute;
+    left: 82px;
+    top: 2900px;
+     
+   }
+ 
+
+  .first-inline{
+    display: none;
+  
+  }
+  
+  .tryf{
+    display: none;
+  }
+  
+  .xy13{
+    display: none;
+  }
+  
+  .xy14{
+    display: none;
+  }
+  .xy15{
+    display: none;
+  }
+  .xy16{
+    display: none;
+  }
+  .xy17{
+    display: none;
+  }
+  .xy18{
+    display: none;
+  }
+  .xy19{
+    display: none;
+  }
+  
+  .xy20{
+    display: none;
+  }
+  
+  .xy21{
+    display: none;
+  
+  }
+  
+  .xy22{
+    display: none;
+  
+  }
+  
+  .xy23{
+    display: none;
+  }
+  
+  .xy24{
+    display: none;
+  }
+  
+  .xy25{
+    display: none;
+  }
+  
+  .xy26{
+    display: none;
+  }
+  
+  .xy27{
+    display: none;
+  }
+  
+  
+  .xy28{
+    display: none;
+  }
+  
+
+  .xy30{
+    display: none;
+  }
+  
+  
+  .xy29{
+    display: none;
+  }
+.main3x{
+  display: none;
+}
+.tryfz{
+  display: none;
+}
+
+  .main2x .card .card-body .card-title{
+    width: 200px;
+}
+}
+  
+

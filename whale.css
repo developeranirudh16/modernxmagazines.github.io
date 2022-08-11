@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Poppins';
+
+}
+  .bm{
+    position: absolute;
+    top: 150px;
+    left: 410px;
+    height: 350px;
+    width: 500px;
+  }
+
+  .hh1x{
+    font-size: 35px;
+    position: absolute;
+    left: 273px;
+    top: 90px;
+  }
+
+  .jm{
+    position: absolute;
+    top: 525px;
+  }
+  
+  .kk{
+    position: absolute;
+    top: 580px;
+    left: 90px;
+  }
+
+  .bb{
+    position: absolute;
+    top: 610px;
+  }
+
+.gh{
+  position: absolute;
+  top: 700px;
+  left: 90px;
+}
+
+.cc{
+  position: absolute;
+  top: 725px;
+}
+
+
+.trt{
+  position: absolute;
+  top: 800px;
+  left: 500px;
+}
+@media (min-width: 401px) and (max-width: 1700px){
+  .p1x{
+    display: none;
+  }
+
+h5{
+  display: none;
+}
+
+  .main1x{
+    display: none;
+  }
+
+}
+
+@media (min-width: 320px) and (max-width: 400px){
+  .bm{
+   display: none;
+  }
+
+.hh1x{
+  display: none;
+}
+
+.jm{
+  display: none;
+}
+
+
+.kk{
+  display: none;
+}
+
+
+.bb{
+  display: none;
+}
+
+
+.gh{
+  display: none;
+}
+
+
+.cc{
+  display: none;
+}
+
+.p1x{
+  position: absolute;
+  top: 150px;
+}
+
+.trt-xx{
+  position: absolute;
+  left: 10px;
+  top: 1200px;
+}
+
+.trt{
+  display: none;
+}
+
+.card-body .bmx{
+  width: 250px;
+  position: relative;
+  left: 10px;
+}
+
+.btn{
+  position: relative;
+  left: 53px;
+  
+}
+
+
+
+}
+

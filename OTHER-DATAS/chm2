@@ -1,0 +1,94 @@
+<div class="main2x">
+  <div class="card" style="width: 15rem;">
+    <div class="card-body">
+      <img src="images/whale.jpg" alt="" class="card-title">
+      <h6 class="card-subtitle mb-2 text-muted">WHAT HAPPENS WHEN A BLUE WHALE DIES?</h6>
+      <p class="card-text">Click On View To Read</p>
+      <a href="whale.html" class="card-link">View</a>
+       <!-- <a href="#" class="card-link">Another link</a> -->
+      
+    </div>
+  </div>
+
+    <div class="card" style="width: 15rem;">
+      <div class="card-body">
+        <img src="images/oters.jpg" alt="" class="card-title">
+        <h6 class="card-subtitle mb-2 text-muted">SEA OTTERS AND THEIR TOOLS</h6>
+        <p class="card-text">Click On View To Read</p>
+        <a href="ottes.html" class="card-link">View</a>
+         <!-- <a href="#" class="card-link">Another link</a> -->
+        
+      </div>
+    </div>
+
+
+    <div class="card" style="width: 15rem;">
+      <div class="card-body">
+        <img src="images/extinction.jpg" alt="" class="card-title">
+        <h6 class="card-subtitle mb-2 text-muted">EXTINCTION </h6>
+        <p class="card-text">Click On View To Read</p>
+        <a href="extinct.html" class="card-link">View</a>
+         <!-- <a href="#" class="card-link">Another link</a> -->
+        
+      </div>
+    </div>
+
+
+    <div class="card" style="width: 15rem;">
+      <div class="card-body">
+        <img src="images/dino2.png" alt="" class="card-title">
+        <h6 class="card-subtitle mb-2 text-muted">DINOSAURS: CELEBRITIES OF EXTINCTION</h6>
+        <p class="card-text">Click On View To Read</p>
+        <a href="dino.html" class="card-link">View</a>
+         <!-- <a href="#" class="card-link">Another link</a> -->
+        
+      </div>
+    </div>
+
+    <div class="card" style="width: 15rem;">
+      <div class="card-body">
+        <img src="images/boreal.jpg" alt="" class="card-title">
+        <h6 class="card-subtitle mb-2 text-muted">BOREAL FOREST</h6>
+        <p class="card-text">Click On View To Read</p>
+        <a href="borial.html" class="card-link">View</a>
+         <!-- <a href="#" class="card-link">Another link</a> -->
+        
+      </div>
+    </div>
+
+    <div class="card" style="width: 15rem;">
+      <div class="card-body">
+        <img src="images/come.jpg" alt="" class="card-title">
+        <h6 class="card-subtitle mb-2 text-muted">CAN SPECIES EVER COME BACK?</h6>
+        <p class="card-text">Click On View To Read</p>
+        <a href="back.html" class="card-link">View</a>
+         <!-- <a href="#" class="card-link">Another link</a> -->
+        
+      </div>
+    </div>
+
+    <div class="card" style="width: 15rem;">
+      <div class="card-body">
+        <img src="images/perm.png" alt="" class="card-title">
+        <h6 class="card-subtitle mb-2 text-muted">WHAT IS A PERMAFROST</h6>
+        <p class="card-text">Click On View To Read</p>
+        <a href="permfrost.html" class="card-link">View</a>
+         <!-- <a href="#" class="card-link">Another link</a> -->
+        
+      </div>
+    </div>
+
+    <div class="card" style="width: 15rem;">
+      <div class="card-body">
+        <img src="images/snake.jpg" alt="" class="card-title">
+        <h6 class="card-subtitle mb-2 text-muted">HOW DO SNAKES MOVE?</h6>
+        <p class="card-text">Click On View To Read</p>
+        <a href="snakemove.html" class="card-link">View</a>
+         <!-- <a href="#" class="card-link">Another link</a> -->
+        
+      </div>
+    </div>
+
+
+  </div>
+</center>

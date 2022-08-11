@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Poppins';
+}
+
+
+      h1{
+        top: 95px;
+        font-size: 35px;
+        position: absolute;
+        left: 330px;
+      }
+      
+  .bm {
+    position: absolute;
+    top: 150px;
+    left: 410px;
+    height: 350px;
+    width: 500px;
+  }
+
+ 
+  p{
+    position: absolute;
+    top: 550px;
+  }
+
+  .trt{
+    position: absolute;
+    top: 850px;
+    left: 500px;
+  }
+
+
+
+  @media (min-width: 401px) and (max-width: 1700px){
+    .p1x{
+      display: none;
+    }
+  
+  
+  
+    .main1x{
+      display: none;
+    }
+  
+  }
+  
+  @media (min-width: 320px) and (max-width: 400px){
+  
+h1{
+  display: none;
+}
+
+    .cm{
+      display: none;
+    }
+    .bm{
+     display: none;
+    }
+  
+  .hh1x{
+    display: none;
+  }
+  
+  .jm{
+    display: none;
+  }
+  
+  
+  .kk{
+    display: none;
+  }
+  
+  
+  .bb{
+    display: none;
+  }
+  
+  
+  .gh{
+    display: none;
+  }
+  
+  
+  .cc{
+    display: none;
+  }
+  
+  .p1x{
+    position: absolute;
+    top: 160px;
+  }
+  
+  .trt-xx{
+    position: absolute;
+    left: 10px;
+    top: 1550px;
+  }
+  
+  .trt{
+    display: none;
+  }
+  
+  .card-body .bmx{
+    width: 250px;
+    position: relative;
+    left: 10px;
+  }
+  
+  .btn{
+    position: relative;
+    left: 53px;
+    
+  }
+  
+  }
+  
+  @media (min-width: 410px) and (max-width: 1700px){
+  
+      h5{
+        display: none;
+      }
+  
+  }
